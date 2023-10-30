@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[ ]:
-
+performing EDA
+understanding each coulmn
 
 
 
