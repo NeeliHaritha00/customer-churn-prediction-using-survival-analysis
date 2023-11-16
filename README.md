@@ -1,11 +1,11 @@
 # customer-churn-prediction
-Overview
+## Overview
 This project focuses on predicting customer churn using survival analysis techniques. Churn prediction is crucial for businesses to retain their customers and maintain a healthy customer base. Survival analysis helps us understand the time until a customer churns and provides insights into retention strategies.
 
-Table of Contents
+## Table of Contents
 
-Usage
-Preprocess and explore your data by running data_preprocessing.ipynb.
+## Usage
+Preprocess and explore your data by running [Exploratory analysis file](Exploratory Data Analysis.ipynb).
 Train and evaluate the survival analysis models using survival_analysis.ipynb.
 Visualize the results and survival curves with visualization.ipynb.
 Data
